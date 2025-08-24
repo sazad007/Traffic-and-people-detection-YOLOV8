@@ -31,8 +31,7 @@ It includes scripts for both training on the [VisDrone dataset](https://www.kagg
 ## 🎥 Example Result
 Below is an example of the detection results on a video (`nyc-annotated.mp4`):
 
-
-
+https://github.com/user-attachments/assets/d8c5e084-f42a-4389-8257-9313591eb4b1
 ---
 
 ## ⚙️ Key Features
